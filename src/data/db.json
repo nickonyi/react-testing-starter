@@ -391,6 +391,12 @@
       "price": 10,
       "categoryId": 1,
       "id": 63
+    },
+    {
+      "name": "PS 5",
+      "price": 375,
+      "categoryId": 1,
+      "id": 64
     }
   ]
 }
